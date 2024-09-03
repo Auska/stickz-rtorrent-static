@@ -1,7 +1,7 @@
 ## dependencies
 
-- c-ares-1.32.3 
-- curl-8.9.0 
+- c-ares-1.33.1
+- curl-8.9.1 
 - ncurses-6.5 
 - openssl-3.3.1 
 - zlib-ng-2.2.1 
